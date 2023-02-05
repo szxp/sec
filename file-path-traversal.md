@@ -4,7 +4,7 @@
 
 On Unix/linux `../`
 
-On Windows both `../` and ..\`
+On Windows both `../` and `..\`
 
 ### Absolute path
 `/etc/passwd`
